@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>8a3fbe83-6ccc-4a4b-a8da-32cefce382b1</webElementGuid>
+      <webElementGuid>e58444e3-43c9-403f-b916-ef7313fac745</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>profile picture</value>
-      <webElementGuid>d22088db-7844-40c7-b6fb-c6fe1890190b</webElementGuid>
+      <webElementGuid>87dc5ab3-d8b1-4dac-96e2-9f88df831659</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>employee-image</value>
-      <webElementGuid>a711c958-32cf-4f1f-a2f6-3560479c507a</webElementGuid>
+      <webElementGuid>beceb358-776d-44d4-8cdc-6788a28cc981</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/web/index.php/pim/viewPhoto/empNumber/7</value>
-      <webElementGuid>842776e8-a67c-44e0-abf6-31a33914a349</webElementGuid>
+      <webElementGuid>c2c171d7-b28c-4d7a-a7ad-65eb1268e540</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-navigation&quot;]/div[@class=&quot;orangehrm-edit-employee-imagesection&quot;]/div[@class=&quot;orangehrm-edit-employee-image-wrapper&quot;]/div[@class=&quot;orangehrm-edit-employee-image&quot;]/img[@class=&quot;employee-image&quot;]</value>
-      <webElementGuid>802b76e8-5b61-485e-90f9-97da362fcd18</webElementGuid>
+      <webElementGuid>63a6b92a-199e-4cc7-aee6-bf8bbb97e902</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div/div[2]/div/img</value>
-      <webElementGuid>748ce145-062b-40bd-af29-c81bfe4efc9f</webElementGuid>
+      <webElementGuid>13c317ca-8ae0-4a20-9fe4-215c8f05b359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='profile picture'])[2]</value>
-      <webElementGuid>780af010-7365-4dfc-bed9-9f9aa825d350</webElementGuid>
+      <webElementGuid>e7430d52-96e2-4a40-b9c5-9962e9c76e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/img</value>
-      <webElementGuid>95ea9918-2037-41c2-b5d5-5531c88b7e3b</webElementGuid>
+      <webElementGuid>4b55e9f7-3fc6-4ccd-b8d2-7bab4f30bd84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'profile picture' and @src = '/web/index.php/pim/viewPhoto/empNumber/7']</value>
-      <webElementGuid>25bdb432-4e5b-455a-9daa-02fb6d149268</webElementGuid>
+      <webElementGuid>b76cef73-cd26-4e40-8293-7af2708e35d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

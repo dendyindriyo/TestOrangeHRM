@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>67fd3384-b867-4589-a020-7e8992644c52</webElementGuid>
+      <webElementGuid>e95b7c18-3eb1-43a4-94d7-4dbd1636846b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-icon bi-chevron-down</value>
-      <webElementGuid>2aa5b5a5-86b9-4d1d-bab1-212b393e4a4d</webElementGuid>
+      <webElementGuid>ab61c3db-a45b-4002-a697-bf86af350cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>with-container</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3ce58d3c-f764-4148-aa97-cc9311e5e2e2</webElementGuid>
+      <webElementGuid>4228be36-f563-4b92-9514-8960a4e6d3d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;oxd-topbar-body-nav-tab --parent --visited&quot;]/span[@class=&quot;oxd-topbar-body-nav-tab-item&quot;]/i[@class=&quot;oxd-icon bi-chevron-down&quot;]</value>
-      <webElementGuid>fe367751-4731-4e89-ae57-1f47df409f1e</webElementGuid>
+      <webElementGuid>b0872f40-c840-4930-a242-3f6606c613b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li/span/i</value>
-      <webElementGuid>0031f43f-284d-48e6-b06b-3b9815c534e4</webElementGuid>
+      <webElementGuid>3e496f19-8d41-4769-810b-7c5e590fcdbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li/span/i</value>
-      <webElementGuid>e1d5b2d3-179a-4f07-b910-cb96508c0c06</webElementGuid>
+      <webElementGuid>00f100a4-338c-4e5b-a0a0-830cd60fbb0e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

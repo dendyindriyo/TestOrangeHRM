@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>f6ba4248-e4dc-4e91-9ec2-d60c17c932cc</webElementGuid>
+      <webElementGuid>ed04cadf-b2f6-4bc3-9700-64b70a61c7b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Users</value>
-      <webElementGuid>fe697cb4-5df6-436a-8fa8-f4a0bba294f0</webElementGuid>
+      <webElementGuid>b96bec8a-815f-4f9a-868e-9b5f5bc469f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;--active oxd-topbar-body-nav-tab --parent --visited&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[1]</value>
-      <webElementGuid>04f903de-771c-4161-b5f0-65b993b17f8e</webElementGuid>
+      <webElementGuid>7cc78818-377d-4d64-a758-75cd6f0c851f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li/ul/li</value>
-      <webElementGuid>820d0d58-1087-4ba1-956e-0e3a61da7cce</webElementGuid>
+      <webElementGuid>92363887-92ac-4119-8f29-e7e398494c25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::li[1]</value>
-      <webElementGuid>35635503-6ee6-49ae-8e63-737c45d3b0a9</webElementGuid>
+      <webElementGuid>e8b7cf18-ab22-4d79-841f-09acb1a8e1e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job'])[1]/preceding::li[1]</value>
-      <webElementGuid>49d2f5c9-79d1-42b9-89c9-25c3ed1d7e13</webElementGuid>
+      <webElementGuid>663d63ab-9319-4b98-9483-741397fe754d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/preceding::li[2]</value>
-      <webElementGuid>6604692a-c188-4ffb-83ce-08151db62447</webElementGuid>
+      <webElementGuid>96ec8ce8-1f9f-4781-929e-baeb475e666c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li</value>
-      <webElementGuid>5e479ee2-c233-4460-a824-f43c8399b52e</webElementGuid>
+      <webElementGuid>91e30b14-9d6e-4278-9abb-722fda54ea4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Users' or . = 'Users')]</value>
-      <webElementGuid>e45e6c72-6849-46c4-a728-2d8b3c3615a0</webElementGuid>
+      <webElementGuid>a17a86bb-e489-4f1f-9661-116dcacddc3d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

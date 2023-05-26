@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.oxd-input.oxd-input--focus</value>
+         <value>input.oxd-input.oxd-input--focus.oxd-input--error</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>40e8c132-a556-4fa1-a03c-07a5e09ff164</webElementGuid>
+      <webElementGuid>faf7cc68-f739-4eab-9972-8de3a8bb4e0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-input oxd-input--focus</value>
-      <webElementGuid>648dfc47-c26c-48e2-9234-e3b301fa38c1</webElementGuid>
+      <value>oxd-input oxd-input--focus oxd-input--error</value>
+      <webElementGuid>7ad85be2-a680-446a-8829-dc01f9451ce2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus&quot;]</value>
-      <webElementGuid>5c81527e-7108-4587-a9f0-480d678b71d4</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus oxd-input--error&quot;]</value>
+      <webElementGuid>351b5572-8822-4738-a0bf-cbc323fccfd6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/input</value>
-      <webElementGuid>09952af0-0872-4e4b-97aa-f951e749f0d8</webElementGuid>
+      <webElementGuid>5fa45281-83c7-4bd4-9a2e-448e21964c10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>ead85e52-b864-4c4b-9ce1-b07dc46531d8</webElementGuid>
+      <webElementGuid>82526777-8609-487c-8c5b-f29f4497187d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
